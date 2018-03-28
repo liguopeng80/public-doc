@@ -31,7 +31,7 @@ info@hansheng.io
 
 由于供需之间的信息不对称，再加上交易过程中陌生用户难以建立直接信任度，因此可以被流转使用的大量（私有）闲散社会资源不能得到充分利用，对社会财富和投资者是巨大的浪费。
 
-![image](http://raw.githubusercontent.com/hanshengchain/public-doc/master/images/image01.png)
+![image](images/image01.png)
 
  
 共享经济的消费革命已经深入人心，在出行、旅游、金融、教育、住宿、日用工具、通讯（比如Wi-Fi万能钥匙）、众包、生产能力（比如智能机床）等方面都取爆发出大量优秀的平台应用，并已经取得很好的经济效益。
